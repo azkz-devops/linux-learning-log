@@ -19,7 +19,8 @@ Record of My Linux Learning — From VirtualBox + Ubuntu Setup to Command Operat
 
 **Command used:**
 ```bash
-sudo timedatectl set-timezone Asia/Tokyo```
+sudo timedatectl set-timezone Asia/Tokyo
+```
 
 ### Day 2: Basic Commands
 - `ls -la`: list files (detailed + hidden files)
