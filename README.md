@@ -34,9 +34,14 @@ sudo timedatectl set-timezone Asia/Tokyo
 
 ### Day 3: GitHub Account Setup & Documentation
 - Created GitHub account to record learning progress
+- Created this README.md to document
 - Learned `echo`: display and write text
 - Learned `sudo`: execute as root
 - Learned `whoami`: confirm the current username
-- Created this README.md to document
+- Learned `cd ..`: go up one directory
+- Learned `rmdir`: delete folder
+- Learned `mv * ..`: All files move up one directory
+- Learned that no space for naming
+
 
 ### Day 4: 
